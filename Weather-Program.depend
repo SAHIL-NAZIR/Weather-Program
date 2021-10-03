@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633275788 source:c:\sahil nazir\weather-program\main.c
+	<stdio.h>
+	<stdlib.h>
+
